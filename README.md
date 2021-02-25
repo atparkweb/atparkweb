@@ -1,20 +1,17 @@
 ## Current Projects
-- HTTP Server
-- Sake Database
+- HTTP Server in Rust
+- Sake Database and Expert System
 
 ## Using
 - Rust
-- Elixir + Phoenix
+- Elixir (Absinthe, Phoenix)
 - GraphQL
 - React
-- React Native
-- AWS Amplify
 
 ## Learning
 - Rust
 - AWS
-- Docker
-- Elm
+- Elixir
 
 ## Hobbies and Interests
 - Sake
