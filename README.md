@@ -8,8 +8,8 @@ I like working with the following tools:
 - React
 - Typescript
 - Python
-- Emacs (Spacemacs Evil Mode)
-- Visual Studio Code
+- Common Lisp
+- Emacs/Emacs Lisp
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atparkweb)](https://github.com/atparkweb/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atparkweb)](https://github.com/atparkweb/github-readme-stats)
