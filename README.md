@@ -4,7 +4,6 @@ Hi, my name is Andy. I'm a software engineer and tech educator working for [Code
 
 I enjoy working with the following:
 - Elixir
-- Jupyter
-- Lisps
+- Lisp
 - Python
 - Typescript
