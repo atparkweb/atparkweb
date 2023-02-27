@@ -12,6 +12,6 @@ I enjoy working with the following:
 
 Currently trying out a new programming language each month:
 
-Jan: OCaml
-Feb: Java
-Mar: TBA
+1. Jan: OCaml
+2. Feb: Java
+3. Mar: TBA
