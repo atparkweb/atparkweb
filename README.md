@@ -9,3 +9,9 @@ I enjoy working with the following:
 - Lisp
 - Python
 - Typescript
+
+Currently trying out a new programming language each month:
+
+Jan: OCaml
+Feb: Java
+Mar: TBA
