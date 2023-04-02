@@ -15,5 +15,5 @@ Currently trying out a new programming language each month:
 1. Jan: [OCaml](https://ocaml.org/)
 2. Feb: [Java](https://www.java.com/)
 3. Mar: [Elm](https://elm-lang.org/)
-4. Apr: [ReasonML](https://reasonml.github.io/)
+4. Apr: [F#](https://fsharp.org/)
 5. May: TBD
