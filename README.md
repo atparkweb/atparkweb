@@ -10,8 +10,7 @@ I enjoy working with the following:
 - Python
 - Typescript
 
-Currently trying out a new programming language each month:
-
+I am currently trying out a new programming language each month:
 1. January:  [OCaml](https://ocaml.org/)
 2. February: [Java](https://www.java.com/)
 3. March:    [Elm](https://elm-lang.org/)
